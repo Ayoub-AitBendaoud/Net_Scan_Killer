@@ -22,6 +22,14 @@ $ git clone https://github.com/Ayoub-AitBendaoud/Net_Scan_Killer/
 $ cd Net_Scan_Killer/
 $ python3 Net_Scan_Killer.py
 ```
+## Usage: 
+```sh
+$ networkscan.py -h HELP -i INTERFACE -r RANGE -f FASTMODE
+```
+## Errors:
+```sh
+networkscan.py: error: the following arguments are required: -i/--interface, -r/--range
+```
 ## Output
 ![net_scan_killer2](https://github.com/Ayoub-AitBendaoud/Net_Scan_Killer/assets/161057716/2cf25dde-4ef9-44a4-9986-119cf083d37f)
 
