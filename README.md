@@ -13,7 +13,7 @@ Network Scan killer: Scans your network to identify connected devices and gather
 
 Note: Operating System detection accuracy may vary.
 ## Author
-Alexandre Buissé
+Ayoub AitBendaoud
 ## Install  & Run in kaliLinux
 ```sh
 $ git clone https://github.com/Ayoub-AitBendaoud/Net_Scan_Killer/
