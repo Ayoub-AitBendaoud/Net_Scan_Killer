@@ -6,3 +6,5 @@ $ git clone https://github.com/Ayoub-AitBendaoud/Net_Scan_Killer/
 $ cd Net_Scan_Killer/
 $ python3 Net_Scan_Killer.py
 ```
+## Output
+![net_scan_killer2](https://github.com/Ayoub-AitBendaoud/Net_Scan_Killer/assets/161057716/2cf25dde-4ef9-44a4-9986-119cf083d37f)
