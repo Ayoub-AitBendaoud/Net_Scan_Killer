@@ -15,6 +15,9 @@ Note: Operating System detection accuracy may vary.
 ## Author
 Ayoub AitBendaoud
 ## Install  & Run in kaliLinux
+To get a local copy up and running, follow these simple steps:
+
+1. Clone the repository to your local machine using Git:
 ```sh
 $ git clone https://github.com/Ayoub-AitBendaoud/Net_Scan_Killer/
 $ cd Net_Scan_Killer/
